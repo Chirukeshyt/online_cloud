@@ -75,6 +75,7 @@ const Dashboard = async () => {
                   type={file.type}
                   extension={file.extension}
                   url={file.url}
+                  className="flex"
                 />
 
                 <div className="recent-file-details">
