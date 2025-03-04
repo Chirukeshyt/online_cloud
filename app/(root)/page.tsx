@@ -92,7 +92,7 @@ const Dashboard = async () => {
             ))}
           </ul>
         ) : (
-          <p className="empty-list">No files uploaded</p>
+          <p className="empty-list">No files are uploaded</p>
         )}
       </section>
     </div>
